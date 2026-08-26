@@ -2,8 +2,8 @@
 
 ## 👥 Team Members
 * Joussyana Sabry
-* Salma Mohamed
 * Jessika Sabry
+* Salma Mohamed
   
 ## 📌 Project Overview
 This machine learning project aims to predict whether an online website visitor will complete a transaction and make a purchase (`Revenue = True` or `False`) based on their browsing behavior, session duration, and other Google Analytics metrics.
