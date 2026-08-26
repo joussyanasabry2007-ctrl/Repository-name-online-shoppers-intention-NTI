@@ -1,8 +1,8 @@
 # Online Shoppers Purchasing Intention Prediction 🛒
 
 ## 👥 Team Members
-* Salma Mohamed
 * Joussyana Sabry
+* Salma Mohamed
 * Jessika Sabry
   
 ## 📌 Project Overview
